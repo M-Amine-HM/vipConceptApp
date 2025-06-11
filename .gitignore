@@ -1,0 +1,20 @@
+# Ignore everything
+*
+
+# Unignore needed files and folders (including contents)
+!lib/
+!lib/**/
+!lib/core/assets/**
+!lib/core/router/**
+!lib/features/auth/view/**
+!lib/features/business/view/**
+!lib/features/home/**
+!lib/features/promoCode/views/pages/**
+!lib/features/reviews/view/**
+!lib/features/subscription/views/pages/**
+!lib/screens/**
+!lib/l10n/**
+!lib/main.dart
+!pubspec.yaml
+!.gitignore
+!README.md

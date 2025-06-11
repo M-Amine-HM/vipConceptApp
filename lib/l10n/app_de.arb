@@ -1,0 +1,104 @@
+{
+    "language": "Deutsch",
+
+    "clicktosend": "Klicken zum Senden",
+    "yourreviews": "Ihre Bewertungen",
+
+    "reviews": "Bewertungen",
+    "getmore": "Mehr bekommen",
+    "home": "Startseite",
+
+    "nobusiness": "Kein Unternehmen",
+    "typeofbusiness": "Art des Unternehmens",
+
+    "businesslist": "Unternehmensliste",
+    "managesubscriptions": "Abonnements verwalten",
+    "promocode": "Gutscheincode",
+    "aisettings": "KI-Einstellungen",
+    "aicredits": "KI-Credits",
+    "aboutandcontact": "Über und Kontakt",
+    "logout": "Abmelden",
+
+    "allreviews": "Alle Bewertungen",
+    "nonreplied": "Nicht beantwortet",
+
+    "puchaseaicredits": "Kaufen Sie KI-Credits, um KI-Bewertungsantworten zu generieren.",
+    "pleaseloginfirst": "Bitte zuerst einloggen",
+    "pleaseselectanoffer": "Bitte ein Angebot auswählen",
+    "paymentfailed": "Zahlung fehlgeschlagen",
+
+    "toneofvoice": "Tonfall",
+    "professional": "Professionell",
+    "casual": "Locker",
+    "reversed": "Umgekehrt",
+    "enthus": "Enthusiastisch",
+    "useofemojis": "Verwendung von Emojis",
+    "yes": "Ja",
+    "no": "Nein",
+    "emojis": "Emojis",
+    "responselength": "Antwortlänge",
+    "short": "Kurz",
+    "medium": "Mittel",
+    "long": "Lang",
+    "custominstructions": "Benutzerdefinierte Anweisungen",
+    "custominstructionshint": "Fügen Sie benutzerdefinierte Anweisungen für die KI hinzu",
+    "saveinstructions": "Anweisungen speichern",
+
+    "whatsappusanytime": "Schreiben Sie uns jederzeit per WhatsApp!",
+
+    "weeklyaverage": "Wöchentlicher Durchschnitt",
+    "monthlyaverage": "Monatlicher Durchschnitt",
+    "yearlyaverage": "Jährlicher Durchschnitt",
+    "whatdoesitmean": "Was bedeutet das?",
+    "whatdoesitmeanmodal": "Dies ist die Gesamtanzahl der Bewertungen (mit und ohne Kommentar), die Ihr Unternehmen in einem bestimmten Zeitraum erhalten hat.",
+    "accept": "Akzeptieren",
+    "week": "Woche",
+    "month": "Monat",
+    "year": "Jahr",
+
+    "getyourfirstreview": "Holen Sie sich Ihre erste Bewertung",
+    "doyouthinkthereisanerror": "Glauben Sie, dass es einen Fehler gibt?",
+    "reloaddata": "Daten neu laden",
+    "realrating": "Echte Bewertung",
+    "rlwhatdoesitmeanmodal": "Dies ist die echte Bewertung, nicht gerundet, berechnet auf die gleiche Weise wie Google. Beachten Sie, dass sie höher oder niedriger als die öffentliche Bewertung sein kann, aufgrund von Rundungen.",
+
+    "realratingtrend": "Trend der echten Bewertung",
+    "rrtwhatdoesitmeanmodal": "Dies ist die Gesamtanzahl der Bewertungen (mit und ohne Kommentar), die Ihr Unternehmen in einem bestimmten Zeitraum erhalten hat.",
+    "day": "Tag",
+
+    "scanqrcodetoleaveareview": "QR-Code scannen, um eine Bewertung abzugeben",
+
+    "totalreviews": "Gesamtbewertungen",
+    "non": "Keine",
+
+    "reviewneeded": "Bewertung erforderlich",
+    "starsreview": "Sternebewertung",
+    "getthemnow": "Holen Sie sie jetzt",
+    "progressto": "Fortschritt zu",
+    "lastreview": "Letzte Bewertung",
+    "viewall": "Alle anzeigen",
+
+    "thesecrettomorereviews": "Das Geheimnis für mehr Bewertungen",
+    "thesecrettomorereviewsmodal": "Kunden um Bewertungen zu bitten, kann für Ihr Unternehmen ein Wendepunkt sein und zu deutlich höheren Bewertungen führen. Das Geheimnis besteht darin, zu betonen, dass Sie ehrliches Feedback suchen, um Ihr Unternehmen zu verbessern, anstatt nur nach hohen Bewertungen zu fragen. Probieren Sie es aus. Die Leute werden Ihnen großartige Bewertungen hinterlassen, und dieser Ansatz führt zu mehr Glaubwürdigkeit und besseren Google-Bewertungen für Ihr Unternehmen.",
+
+    "alwaysanswer1starreviews": "Beantworten Sie immer 1-Sterne-Bewertungen",
+    "alwaysanswer1starreviewsmodal": "Eine schnelle Antwort auf 1-Sterne-Bewertungen ist entscheidend. Sie kann helfen, Probleme zu lösen, bevor sie eskalieren. Eine zeitnahe Reaktion auf negatives Feedback zeigt auch Ihr Engagement für die Kundenzufriedenheit, was Ihren Online-Ruf verbessern und die Kundenbindung erhöhen kann. Es zeigt auch allen Lesern, dass Sie proaktiv und engagiert sind, wenn etwas schief läuft, was ihnen Sicherheit gibt.",
+
+    "monthlyreviews": "Monatliche Bewertungen",
+    "mrwhatdoesitmeanmodal": "Dies ist die Gesamtanzahl der Bewertungen (mit und ohne Kommentar), die Ihr Unternehmen in einem bestimmten Zeitraum erhalten hat.",
+    "stars": "Sterne",
+
+    "loadinglocations": "Standorte werden geladen",
+    "loadingreviews": "Bewertungen werden geladen",
+    "signingin": "Anmeldung läuft",
+
+    "languagesetting": "Spracheinstellungen",
+
+    "login": "Anmelden",
+    "appspersmissions": "App-Berechtigungen",
+    "termsConditions": "Geschäftsbedingungen",
+    "gethelp": "Hilfe erhalten",
+
+    "reply": "Antworten",
+    "editreply": "Antwort bearbeiten"
+}

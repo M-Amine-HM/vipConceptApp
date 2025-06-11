@@ -1,0 +1,103 @@
+{
+    "language":"English",
+
+    "clicktosend":"Click to send",
+    "yourreviews": "your reviews",
+
+    "reviews": "Reviews",
+    "getmore": "Get more",
+    "home": "Home",
+
+    "nobusiness": "No Business",
+    "typeofbusiness": "Type of Business",
+
+    "businesslist": "Business List",
+    "managesubscriptions": "Manage Subscriptions",
+    "promocode": "Promo Code",
+    "aisettings": "AI Settings",
+    "aicredits": "AI Credits",
+    "aboutandcontact": "About and Contact",
+    "logout": "Logout",
+
+    "allreviews": "All Reviews",
+    "nonreplied": "Non Replied",
+
+    "puchaseaicredits": "Puchase AI Credits to generate AI review replies.",
+    "pleaseloginfirst": "Please login first",
+    "pleaseselectanoffer": "Please select an offer",
+    "paymentfailed": "Payment failed",
+
+    "toneofvoice": "Tone of voice",
+    "professional": "Professional",
+    "casual": "Casual",
+    "reversed": "Reversed",
+    "enthus": "Enthus",
+    "useofemojis": "Use of emojis",
+    "yes": "Yes",
+    "no": "No",
+    "emojis": "Emojis",
+    "responselength": "Response length",
+    "short": "Short",
+    "medium": "Medium",
+    "long": "Long",
+    "custominstructions": "Custom Instructions",
+    "custominstructionshint":"Add custom instructions for the AI to follow",
+    "saveinstructions": "Save Instructions",
+    
+    "whatsappusanytime": "WhatsApp Us Anytime!",
+
+    "weeklyaverage": "Weekly average",
+    "monthlyaverage": "Monthly average",
+    "yearlyaverage": "Yearly average",
+    "whatdoesitmean": "What does it mean",
+    "whatdoesitmeanmodal": "This is the total reviews (with and without comment) that your business received during a period of time.",
+    "accept": "Accept",
+    "week": "Week",
+    "month": "Month",
+    "year": "Year",
+
+    "getyourfirstreview": "Get your first review",
+    "doyouthinkthereisanerror": "Do you think there is an error?",
+    "reloaddata": "Reload Data",
+    "realrating": "Real Rating",
+    "rlwhatdoesitmeanmodal": "This is the Real rating, not rounded, calculated the same way Google does. Notice how it can be higher or lower than the public rating due to rounding",
+
+    "realratingtrend": "Real rating trend",
+    "rrtwhatdoesitmeanmodal": "This is the total reviews (with and without comment) that your business received during a period of time.",
+    "day": "Day",
+
+    "scanqrcodetoleaveareview": "Scan QR code to leave a review",
+
+    "totalreviews": "Total reviews",
+    "non": "Non",
+
+    "reviewneeded": "Review Needed",
+    "starsreview": " Stars Review",
+    "getthemnow": "Get Them Now",
+    "progressto": "Progress to",
+    "lastreview": "Last Review",
+    "viewall": "View all",
+
+    "thesecrettomorereviews": "The secret to more Reviews",
+    "thesecrettomorereviewsmodal": "Asking for customer reviews can be a game changer for your business and get much higher ratings. The secret is to emphasize that you're seeking honest feedback to help improve your business, rather than just asking for high ratings. Try it. People will leave you awesome reviews and this approach will lead to increased credibility and better Google ratings for your business.",
+    "alwaysanswer1starreviews": "Always answer 1-star reviews",
+    "alwaysanswer1starreviewsmodal": "Quick response to 1-star reviews is critical. It can help resolve any issues before they escalate. Prompt attention to negative feedback can also demonstrate your commitment to customer satisfaction, which can improve your online reputation and increase customer loyalty. It also shows to anyone reading that you're proactive and engaged when things go wrong, which is a peace of mind for them.",
+
+    "monthlyreviews": "Monthly reviews",
+    "mrwhatdoesitmeanmodal": "This is the total reviews (with and without comment) that your business received during a period of time.",
+    "stars": "Stars",
+
+    "loadinglocations": "loading locations",
+    "loadingreviews": "loading reviews",
+    "signingin": "signing in",
+
+    "languagesetting": "Language Setting",
+
+    "login": "Login",
+    "appspersmissions": "App's Persmissions",
+    "termsConditions": "Terms & Conditions",
+    "gethelp": "Get Help",
+
+    "reply": "Reply",
+    "editreply": "Edit Reply"
+}
