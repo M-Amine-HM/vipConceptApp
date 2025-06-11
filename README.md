@@ -31,15 +31,15 @@
 ## 📸 Screenshots
 
 <img src="lib/core/assets/screenshots/page1.png" align="left" width="200px" alt="">
-<img src="lib/core/assets/screenshots/page2.png"  width="200px" alt="">
-<img src="lib/core/assets/screenshots/page3.png"  width="200px" alt="">
-<img src="lib/core/assets/screenshots/page4.png"  width="200px" alt="">
-<img src="lib/core/assets/screenshots/page5.png"  width="200px" alt="">
-<img src="lib/core/assets/screenshots/page6.png"  width="200px" alt="">
-<img src="lib/core/assets/screenshots/page7.png"  width="200px" alt="">
-<img src="lib/core/assets/screenshots/page8.png"  width="200px" alt="">
-<img src="lib/core/assets/screenshots/page9.png"  width="200px" alt="">
-<img src="lib/core/assets/screenshots/page12.png"  width="200px" alt="">
+<img src="lib/core/assets/screenshots/page2.png" align="left" width="200px" alt="">
+<img src="lib/core/assets/screenshots/page3.png" align="left" width="200px" alt="">
+<img src="lib/core/assets/screenshots/page4.png"  align="left" width="200px" alt="">
+<img src="lib/core/assets/screenshots/page5.png" align="left" width="200px" alt="">
+<img src="lib/core/assets/screenshots/page6.png" align="left" width="200px" alt="">
+<img src="lib/core/assets/screenshots/page7.png" align="left" width="200px" alt="">
+<img src="lib/core/assets/screenshots/page8.png" align="left" width="200px" alt="">
+<img src="lib/core/assets/screenshots/page9.png" align="left" width="200px" alt="">
+<img src="lib/core/assets/screenshots/page12.png" align="left" width="200px" alt="">
 <img src="lib/core/assets/screenshots/page11.png"  width="200px" alt="">
 
 ---
