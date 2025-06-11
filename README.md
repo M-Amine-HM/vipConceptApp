@@ -47,4 +47,4 @@
 ## 🎬 Demo Video
 
 Watch the demo here:  
-📽 [Download demo video](lib\core\assets\demo\VipConceptAppDemoVideo.mp4)
+📽 [Download demo video](lib/core/assets/demo/VipConceptAppDemoVideo.mp4)
